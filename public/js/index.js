@@ -37,12 +37,29 @@ const ejercicio3 = (a,b,c,d,e,f,g) => {
 
 }
     
-const ejercicio4 = () => {
+const ejercicio4 = (a,b,c,d,e,f,g) => {
+    let t1 =  c / d;
+    let t2=  b + t1;
+    let t3 = f + g;
+    let t4= a* t2;
+    let t5= e*t3;
+    let t6 = t4-t5
+    let val = t6;
+    console.log("val = ", x);
 
 
 }
 
 const ejercicio5 = () => {
+    let t1 = y/o;
+    let t2= x+t1;
+    let t3 = a*b;
+    let t4= t3+k;
+    let t5= c+d;
+    let t6 = t2*r;
+    let t7=t4/t5;
+    let z=t7;
+    console.log("z = ", x);
 
 }
 
